@@ -1,0 +1,79 @@
+body{
+    background-color: #343a40;
+}
+
+.azul{
+    color: #ffff;
+    font-size: 25px;
+}
+.branco{
+    color: #ffff;
+
+}
+.titulo {
+    
+    color: #04b1ad;
+    text-align: center;
+
+}
+.carta{
+    background-color: #373737;
+
+}
+.botao{
+    padding: 8px;
+    padding-left: 4px;
+    padding-right: 40px;
+    background-color: #04b1ad;
+    font-size: 16px;
+    color: #ffffff;
+}
+.navegacao{
+   background-color: #04b1ad;
+    padding:  auto ;
+    margin-left: 10px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: .3s;
+    border-radius: 2px;
+
+}
+.imgh{
+background-size: cover;
+}
+
+
+.texto{
+    color: #ffff;
+    font-size: 18px;
+    text-align: center;
+}
+.teste{
+    background-color: #04b1ad;
+}
+.roweduc{
+    background-color: #04b1ad;
+    color: #ffffff;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: center;
+    text-shadow: #ffffff;
+    border-radius: 5px;
+}
+.fundo{
+  background-color: #272727;
+    border-radius: 5px;
+    padding: 20px;  
+    font-weight: 500;
+    color: #ffffff;
+}    
+    .tamanho{
+        height: 350px;
+        width: 350px;
+    }
+  
+.testefotofundo {
+    height: 150px;
+    width: 150px;
+    size-adjust: auto;
+}
